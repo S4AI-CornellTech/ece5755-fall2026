@@ -24,7 +24,7 @@ designed.
 ## Course Staff
 
 
-| <img src="https://ugupta.com/assets/images/uditgupta.jpeg" height="250"> | <img src="assets/images/YuzongChen.jpg" height="250"> |
+| <img src="https://ugupta.com/assets/images/uditgupta.jpeg" height="250"> | <img src="assets/images/yahya.png" height="250"> |
 | :-------------:                                                          | :-------------:                                    |
 | Udit Gupta (Professor)                                                   |  Yahya Emara (Head TA) |
 
