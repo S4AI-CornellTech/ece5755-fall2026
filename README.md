@@ -31,8 +31,8 @@ designed.
 
 ## Office Hours
 
-- Professor: Mondays 3-4pm, Bloomberg 268
-- TA (Yuzong Cheng): Thursdays 11am-12pm, Master's Studio
+- Professor: TBA
+- TA (Yahya Emara):
 
 ## Schedule
 
