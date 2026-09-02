@@ -32,8 +32,8 @@ designed.
 ## Office Hours
 
 - Professor: Tuesdays, 1-2pm Bloomberg 268
-- TA (Xuesi Chen): TBA
-- TA (Michael Shen): Wednesdays 1-2pm, MEng Studio
+- TA (Xuesi Chen): Mondays, 430-530pm, MEng Studio
+- TA (Michael Shen): Wednesdays, 1-2pm, MEng Studio
 
 ## Schedule
 
