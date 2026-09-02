@@ -24,15 +24,16 @@ designed.
 ## Course Staff
 
 
-| <img src="https://ugupta.com/assets/images/uditgupta.jpeg" height="250"> | <img src="assets/images/yahya.png" height="250"> |
-| :-------------:                                                          | :-------------:                                    |
-| Udit Gupta (Professor)                                                   |  Yahya Emara (Head TA) |
+| <img src="https://ugupta.com/assets/images/uditgupta.jpeg" height="250"> | <img src="assets/images/xuesi.jpg" height="250"> | <img src="assets/images/MichaelShen.jpg" height="250"> |
+| :-------------:                                                          | :-------------:                                  | :-------------:                                  |
+| Udit Gupta (Professor)                                                   | Xuesi Chen (Head TA)                             | Michael Shen|
 
 
 ## Office Hours
 
-- Professor: TBA
-- TA (Yahya Emara):
+- Professor: Tuesdays, 1-2pm Bloomberg 268
+- TA (Xuesi Chen): TBA
+- TA (Michael Shen): Wednesdays 1-2pm, MEng Studio
 
 ## Schedule
 
